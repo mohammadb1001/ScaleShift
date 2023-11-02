@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/ScaleShift/static/css/main.4f7da857.css",
-    "main.js": "/ScaleShift/static/js/main.a8c44b73.js",
+    "main.css": "/ScaleShift/static/css/main.11d84d9e.css",
+    "main.js": "/ScaleShift/static/js/main.953ced47.js",
     "static/js/787.4e1e5739.chunk.js": "/ScaleShift/static/js/787.4e1e5739.chunk.js",
     "index.html": "/ScaleShift/index.html",
-    "main.4f7da857.css.map": "/ScaleShift/static/css/main.4f7da857.css.map",
-    "main.a8c44b73.js.map": "/ScaleShift/static/js/main.a8c44b73.js.map",
+    "main.11d84d9e.css.map": "/ScaleShift/static/css/main.11d84d9e.css.map",
+    "main.953ced47.js.map": "/ScaleShift/static/js/main.953ced47.js.map",
     "787.4e1e5739.chunk.js.map": "/ScaleShift/static/js/787.4e1e5739.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.4f7da857.css",
-    "static/js/main.a8c44b73.js"
+    "static/css/main.11d84d9e.css",
+    "static/js/main.953ced47.js"
   ]
 }
